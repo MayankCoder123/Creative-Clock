@@ -1,4 +1,4 @@
-# Creative Js Clock v3
+# Creative Clock v3
 
 Creative & Awesome html, css and js clock
 
@@ -11,11 +11,11 @@ Creative & Awesome html, css and js clock
 
 ## Preview
 
-- https://mayankcoder123.github.io/Creative-Js-Clock/
+- https://mayankcoder123.github.io/Creative-Clock/
 
 ## Release Notes
 
-- [v3.0.0](https://github.com/MayankCoder123/Creative-Js-Clock/releases/tag/v3.0.0)
+- [v3.0.0](https://github.com/MayankCoder123/Creative-Clock/releases/tag/v3.0.0)
 
 ## Authors
 
@@ -23,4 +23,4 @@ Creative & Awesome html, css and js clock
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](https://choosealicense.com/licenses/mit/)
